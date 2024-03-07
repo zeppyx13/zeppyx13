@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m studying on **Stikom Bali**
 
-- 🌱 I’m currently learning **tenserflow and Mobile developer**
+- 🌱 I’m currently learning **tenserflow,Keras and Mobile developer**
 
 - 👨‍💻 All of my projects are available at [https://gungnanda.com/portfolio/formal/](https://gungnanda.com/portfolio/formal/)
 
