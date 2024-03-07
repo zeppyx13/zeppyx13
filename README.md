@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Gung Nanda</h1>
 <h3 align="center">A passionate Web developer and Robotic</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/82015368?v=4" alt="zeppyx13" /> </p>
 
 - 👨‍🎓 I’m studying on **Stikom Bali**
 
