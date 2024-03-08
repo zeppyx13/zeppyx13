@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Gung Nanda</h1>
-<h3 align="center">A passionate Web developer and Robotic</h3>
+<h1 align="center">Hi 👋,there</h1>
+<h3 align="center">A man passionate Web developer and Robotic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeppyx13&label=Profile%20views&color=0e75b6&style=flat-square" alt="zeppyx13" /> </p>
 
