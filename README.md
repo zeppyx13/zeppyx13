@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,there</h1>
-<h3 align="center">A man passionate Web developer and Robotic</h3>
+<h3 align="center">A man passionate Web developer🌐 and Robotic🤖</h3>
 
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=zeppyx13&label=Profile%20views&color=red&style=flat-square&abbreviated=true" alt="zeppyx13" /> </h1>
 
@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m studying on **Stikom Bali**
 
-- 🌱 I’m currently learning **tenserflow,Keras and Mobile developer**
+- 🌱 I’m currently learning **Deep model learning and Mobile developer**
 
 - 👨‍💻 All of my projects are available at [https://gungnanda.com/portfolio/formal/](https://gungnanda.com/portfolio/formal/)
 
