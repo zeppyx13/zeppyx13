@@ -5,7 +5,7 @@
 
 - 🌍  I'm based in Denpasar, Bali, Indonesia
 
-- 👨‍🎓 I’m studying on **Stikom Bali**
+- 👨‍🎓 I’m studying on **ITB Stikom Bali**
 
 - 🌱 I’m currently learning **Deep model learning and Mobile developer**
 
