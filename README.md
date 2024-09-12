@@ -21,7 +21,7 @@
 <a href="https://instagram.com/gn.nanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gn.nanda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">💻 Tech Stack :</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus" width="40" height="40" /> </a>
@@ -43,7 +43,6 @@
         href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-    <h3 align="left">FRAME WORK:</h3>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40" />
         </a>
@@ -58,7 +57,6 @@
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
                 alt="tailwind" width="40" height="40" /> </a>
     </p>
- <h3 align="left">Tools:</h3>
     <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
