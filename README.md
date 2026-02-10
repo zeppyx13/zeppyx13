@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Deep model learning and Mobile developer**
 
-- 👨‍💻 All of my projects are available at [https://gungnanda.com/portfolio/formal/](https://gungnanda.com/portfolio/formal/)
-
-- 📝 I regularly write articles on [https://blog.gungnanda.com/](https://blog.gungnanda.com/)
+- 👨‍💻 All of my projects are available at : (undermaintenance)
 
 - 📫 How to reach me **contact@gungnanda.com**
 
